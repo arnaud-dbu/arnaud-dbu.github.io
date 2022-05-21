@@ -1,0 +1,650 @@
+[
+  {
+    "name": "Water Bottle",
+    "price": "2.00",
+    "image": "water-bottle.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "500ml"
+  },
+  {
+    "name": "Pepsi",
+    "price": "2.25",
+    "image": "pepsi.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "355ml"
+  },
+  {
+    "name": "Diet Pepsi",
+    "price": "2.25",
+    "image": "diet-pepsi.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "355ml"
+  },
+  {
+    "name": "7UP",
+    "price": "2.25",
+    "image": "7up.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "355ml"
+  },
+  {
+    "name": "Diet 7UP",
+    "price": "2.25",
+    "image": "diet-7up.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "355ml"
+  },
+  {
+    "name": "Sparkling Water",
+    "price": "2.95",
+    "image": "sparling-water.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "500ml"
+  },
+  {
+    "name": "Pure Leaf Tea",
+    "price": "3.25",
+    "image": "pure-leaf-tea.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "500ml"
+  },
+  {
+    "name": "Iced Tea",
+    "price": "2.50",
+    "image": "iced-tea.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "500ml"
+  },
+  {
+    "name": "Vegetable Juice",
+    "price": "2.50",
+    "image": "vegetable-juice.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "300ml"
+  },
+  {
+    "name": "Oasis Juice",
+    "price": "2.50",
+    "image": "oasis-juice.png",
+    "category": "Beverages",
+    "description": null,
+    "quantity": "400ml"
+  },
+  {
+    "name": "Black mamba Maki",
+    "price": "10.95",
+    "image": "black-mamba-maki.png",
+    "category": "Maki",
+    "description": "Shrimp tempura, salmon, kanikama, red and black masago, spicy light mayo, Japanese mayo, green onion.",
+    "quantity": "8"
+  },
+  {
+    "name": "Tokyo Maki",
+    "price": "10.25",
+    "image": "tokyo-maki.png",
+    "category": "Maki",
+    "description": "Torch-seared tuna, sesame oil and steak spice, our Maki roll stands out for its unique truffle mayo flavor.",
+    "quantity": "8"
+  },
+  {
+    "name": "Vancouver Maki",
+    "price": "8.50",
+    "image": "vancouver-maki.png",
+    "category": "Maki",
+    "description": "Smoked salmon, avocado, cream cheese, sesame.",
+    "quantity": "8"
+  },
+  {
+    "name": "911 Maki",
+    "price": "8.25",
+    "image": "911-mai.png",
+    "category": "Maki",
+    "description": "Tuna, avocado, green onion, tempura, orange masago, spicy sauce, sesame.",
+    "quantity": "8"
+  },
+  {
+    "name": "Twin Salmon Maki",
+    "price": "10.95",
+    "image": "twin-salmon-maki.png",
+    "category": "Maki",
+    "description": "Salmon, smoked salmon, avocado, green onion, red masago, light mayo, sesame.",
+    "quantity": "8"
+  },
+  {
+    "name": "Ebi Maki",
+    "price": "6.50",
+    "image": "ebi-maki.png",
+    "category": "Maki",
+    "description": "Shrimp, avocado, cucumber, tempura, sweet chili sauce, red masago, sesame.",
+    "quantity": "8"
+  },
+  {
+    "name": "Dragon Maki",
+    "price": "9.95",
+    "image": "dragon-maki.png",
+    "category": "Maki",
+    "description": "Shrimp tempura, avocado, lemon, cucumber, red masago, spicy light mayo.",
+    "quantity": "8"
+  },
+  {
+    "name": "Sunkiss maki",
+    "price": "10.25",
+    "image": "sunkiss-maki.png",
+    "category": "Maki",
+    "description": "Salmon, smoked salmon, tempura, red masago, spicy light mayo, lemon, sesame.",
+    "quantity": "8"
+  },
+  {
+    "name": "California Classic Maki",
+    "price": "5.95",
+    "image": "california-classic-maki.png",
+    "category": "Maki",
+    "description": "Kanikama, avocado, cucumber, light mayo, sesame.",
+    "quantity": "8"
+  },
+  {
+    "name": "Red Tiger Maki",
+    "price": "10.95",
+    "image": "red-tiger-maki.png",
+    "category": "Maki",
+    "description": "Tuna, tilapia, shrimp, tempura, spicy light mayo, steak spice, sesame oil, torch seared. ",
+    "quantity": "8"
+  },
+  {
+    "name": "Teriyaki Chicken Maki",
+    "price": "6.50",
+    "image": "teriyaki-chicken-maki.png",
+    "category": "Maki",
+    "description": "Chicken, avocado, tempura, teriyaki sauce, Japanese mayo, sesame.",
+    "quantity": "8"
+  },
+  {
+    "name": "Syake",
+    "price": "4.00",
+    "image": "syake.png",
+    "category": "Nigiri & Sashimi",
+    "description": "Salmon",
+    "quantity": "1"
+  },
+  {
+    "name": "Ebi",
+    "price": "4.00",
+    "image": "ebi.png",
+    "category": "Nigiri & Sashimi",
+    "description": "Shrimp",
+    "quantity": "1"
+  },
+  {
+    "name": "Maguro",
+    "price": "6.00",
+    "image": "maguro.png",
+    "category": "Nigiri & Sashimi",
+    "description": "Tuna",
+    "quantity": "1"
+  },
+  {
+    "name": "Kunsei Syake",
+    "price": "4.00",
+    "image": "kunsei-syake.png",
+    "category": "Nigiri & Sashimi",
+    "description": "Smoked salmon",
+    "quantity": "1"
+  },
+  {
+    "name": "Izumidai",
+    "price": "4.00",
+    "image": "izumidai.png",
+    "category": "Nigiri & Sashimi",
+    "description": "Tilapia",
+    "quantity": "1"
+  },
+  {
+    "name": "Syake Saisi",
+    "price": "4.00",
+    "image": "syake-saisi.png",
+    "category": "Nigiri & Sashimi",
+    "description": "Salmon marinated in soy sauce",
+    "quantity": "1"
+  },
+  {
+    "name": "Passion Poke Salmon",
+    "price": "14.50",
+    "image": "passion-poke-salmon.png",
+    "category": "Poke Bowls",
+    "description": "Salmon, popping pearls, tempura, avocado, orange masago, cucumber, lettuce, green onion, poke, teriyaki and ponzu sauce, passion fruit and spicy light mayo, Japanese spices, sesame, nori, choice of base.",
+    "quantity": "1"
+  },
+  {
+    "name": "Passion Poke Tuna",
+    "price": "16.25",
+    "image": "passion-poke-tuna.png",
+    "category": "Poke Bowls",
+    "description": "Tuna, popping pearls, tempura, avocado, orange masago, cucumber, lettuce, green onion, poke, teriyaki and ponzu sauce, passion fruit and spicy light mayo, Japanese spices, sesame, nori, choice of base.",
+    "quantity": "1"
+  },
+  {
+    "name": "Passion Poke Salmon & Tuna",
+    "price": "13.50",
+    "image": "passion-poke-salmon-tune.png",
+    "category": "Poke Bowls",
+    "description": "Salmon, tuna, popping pearls, tempura, avocado, orange masago, cucumber, lettuce, green onion, poke, teriyaki and ponzu sauce, passion fruit and spicy light mayo, Japanese spices, sesame, nori, choice of base.",
+    "quantity": "1"
+  },
+  {
+    "name": "Salmon Poke",
+    "price": "12.00",
+    "image": "salmon-poke.png",
+    "category": "Poke Bowls",
+    "description": "Salmon, tempura, avocado, orange masago, cucumber, lettuce, green onion, ponzu, teriyaki and poke sauce, spicy light and Japanese mayo, Japanese spices, sesame, nori.",
+    "quantity": "1"
+  },
+  {
+    "name": "Salmon & Tuna Poke",
+    "price": "15.00",
+    "image": "salmon-tuna-poke.png",
+    "category": "Poke Bowls",
+    "description": "Salmon, tuna, tempura, avocado, orange masago, cucumber, lettuce, green onion, ponzu, teriyaki and poke sauce, spicy light and Japanese mayo, Japanese spices, sesame, nori.",
+    "quantity": "1"
+  },
+  {
+    "name": "Tuna Poke",
+    "price": "12.50",
+    "image": "tuna-poke.png",
+    "category": "Poke Bowls",
+    "description": "Tuna, tempura, avocado, orange masago, cucumber, lettuce, green onion, ponzu, teriyaki and poke sauce, spicy light and Japanese mayo, Japanese spices, sesame, nori.",
+    "quantity": "1"
+  },
+  {
+    "name": "Spicy Shrimp Poke",
+    "price": "16.00",
+    "image": "spicy-shrimp-poke.png",
+    "category": "Poke Bowls",
+    "description": "Shrimp, kanikama, tempura, avocado, red and orange masago, cucumber, lettuce, green onion, ponzu and teriyaki sauce, spicy light and Japanese mayo, Japanese spices, sesame, nori. ",
+    "quantity": "1"
+  },
+  {
+    "name": "Volcano Poke",
+    "price": "11.95",
+    "image": "volcano-poke.png",
+    "category": "Poke Bowls",
+    "description": "Torch-seared salmon, tempura, avocado, orange masago, cucumber, lettuce, green onion, ponzu and teriyaki sauce, spicy light, light and Japanese mayo, Japanese spices, sesame, nori.",
+    "quantity": "1"
+  },
+  {
+    "name": "Veggie Poke",
+    "price": "12.50",
+    "image": "veggie-poke.png",
+    "category": "Poke Bowls",
+    "description": "Avocado, edamame beans, cucumber, lettuce, red pepper, crispy sweet potato strings, green onion, coriander, ponzu, sesame and teriyaki sauce, Japanese spices, spicy light and Japanese mayo, sesame, nori. Served with cripsy wonton.",
+    "quantity": "1"
+  },
+  {
+    "name": "Lobster & Shrimp Poke",
+    "price": "16.00",
+    "image": "lobster-shrimp-poke.png",
+    "category": "Poke Bowls",
+    "description": "Lobster, shrimp, coriander, lemon, tempura, avocado, orange masago, cucumber, lettuce, green onion, ponzu and teriyaki sauce, spicy light and Japanese mayo, Japanese spices, sesame, nori.",
+    "quantity": "1"
+  },
+  { 
+    "name": "Chicken & Mango Poke",
+    "price": "16.00",
+    "image": "chicken-mango-poke.png",
+    "category": "Poke Bowls",
+    "description": "Chicken, mango, tempura, avocado, cucumber, lettuce, green onion, teriyaki and ponzu sauce, spicy light and Japanese mayo, Japanese spices, sesame, nori.",
+    "quantity": "1"
+  },
+  {
+    "name": "Umami Poke",
+    "price": "11.25",
+    "image": "umami-poke.png",
+    "category": "Poke Bowls",
+    "description": "Salmon, avocado, crispy wonton, cucumber, mesclun salad, orange masago, coriander, green onion, roasted garlic, sesame sauce, ponzu sauce, poke sauce, Japanese mayo, teriyaki sauce, nori, sesame.",
+    "quantity": "1"
+  },
+  {
+    "name": "Spicy Tuna Poke",
+    "price": "14.50",
+    "image": "spicy-tuna-poke.png",
+    "category": "Poke Bowls",
+    "description": "Tuna, avocado, mango, cucumber, edamame beans, tempura, mesclun salad, orange masago, green onion, jalapeño, Japanese spices, spicy light mayo, ponzu sauce, spicy sauce, poke sauce, sesame.",
+    "quantity": "1"
+  },
+  {
+    "name": "Spicy Salmon Poke",
+    "price": "16.00",
+    "image": "spicy-salmon-poke.png",
+    "category": "Poke Bowls",
+    "description": "Salmon, avocado, mango, cucumber, edamame beans, tempura, mesclun salad, orange masago, green onion, jalapeño, Japanese spices, spicy light mayo, ponzu sauce, spicy sauce, poke sauce, sesame.",
+    "quantity": "1"
+  },
+  {
+    "name": "Diabolo Poke",
+    "price": "11.95",
+    "image": "diabolo-poke.png",
+    "category": "Poke Bowls",
+    "description": "Salmon, kanikama, avocado, cucumber, tempura, mesclun salad, red and black masago, green onion, Japanese spices, spicy light mayo, ponzu sauce, spicy sauce, poke sauce, sesame.",
+    "quantity": "1"
+  },
+  {
+    "name": "Sunrise Poke",
+    "price": "14.50",
+    "image": "sunrise-poke.png",
+    "category": "Poke Bowls",
+    "description": "Salmon, smoked salmon, avocado, cucumber, crispy sweet potato strings, tempura, mesclun salad, red masago, green onion, Japanese spices, spicy light and Japanese mayo, ponzu sauce, poke sauce, teriyaki sauce, spicy sauce, sesame.",
+    "quantity": "1"
+  },
+  {
+    "name": "Small Miso Soup",
+    "price": "3.50",
+    "image": "small-miso-soup.png",
+    "category": "Appetizers",
+    "description": "Traditional Japanese soup made primarily of miso paste, dashi (broth), and additional ingredients such as vegetables, seaweed, and tofu.",
+    "quantity": "1"
+  },
+  {
+    "name": "Shrimp Tempura",
+    "price": "5.95",
+    "image": "shrimp-tempura.png",
+    "category": "Appetizers",
+    "description": "Served with spicy light mayo.",
+    "quantity": "3"
+  },
+  {
+    "name": "Imperia Roll",
+    "price": "1.95",
+    "image": "imperia-roll.png",
+    "category": "Appetizers",
+    "description": "Served with sweet chili sauce. ",
+    "quantity": "1"
+  },
+  {
+    "name": "Popcorn Shrimp",
+    "price": "5.50",
+    "image": "popcorn-shrimp.png",
+    "category": "Appetizers",
+    "description": "Served with spicy light mayo.",
+    "quantity": "12"
+  },
+  {
+    "name": "Vegetable Tempura",
+    "price": "4.50",
+    "image": "vegetable-tempura.png",
+    "category": "Appetizers",
+    "description": "Sweet potato, cauliflower and green beans in a light crispy batter. Served with ponzu sauce.",
+    "quantity": "8"
+  },
+  {
+    "name": "Wakame Salad",
+    "price": "4.95",
+    "image": "wakame-salad.png",
+    "category": "Appetizers",
+    "description": "Marinated wakame (seaweed) salad.",
+    "quantity": "1"
+  },
+  {
+    "name": "Green Salad",
+    "price": "3.50",
+    "image": "green-salad.png",
+    "category": "Appetizers",
+    "description": "Served with sesame or ponzu sauce.",
+    "quantity": "1"
+  },
+  {
+    "name": "Spicy Calmar",
+    "price": "6.95",
+    "image": "spicy-calmar.png",
+    "category": "Appetizers",
+    "description": null,
+    "quantity": "1"
+  },
+  {
+    "name": "Mister's Choice A",
+    "price": "62.95",
+    "image": "platter.png",
+    "category": "Platters",
+    "description": "20 Sumomaki, 16 Maki, 9 Hosomaki, 5 Nigiri",
+    "quantity": "50"
+  },
+  {
+    "name": "Mister's Choice B",
+    "price": "68.95",
+    "image": "platter.png",
+    "category": "Platters",
+    "description": "5 Blossom, 5 Crispy Rolls, 10 Sumomaki, 8 Tartare Maki, 12 Maki, 12 Hosomaki.",
+    "quantity": "52"
+  },
+  {
+    "name": "Mister's Choice C",
+    "price": "79.95",
+    "image": "platter.png",
+    "category": "Platters",
+    "description": "Popcorn Shrimp (12), Cherry Blossom MD (8), Mini Volcano MD (8), Dragon Eye (5), Kamikaze Salmon (5), Spicy Shrimp (5), Shrimp Tartare Maki (4), Tokyo (8), Vancouver (8), Avocado (6)",
+    "quantity": "57"
+  },
+  {
+    "name": "Mister's Choice D",
+    "price": "82.95",
+    "image": "platter.png",
+    "category": "Platters",
+    "description": "12 Hosomaki, 30 Sumomaki, 24 Maki, 9 Nigiri. ",
+    "quantity": "82.95"
+  },
+  {
+    "name": "Mister's Choice E",
+    "price": "107.95",
+    "image": "platter.png",
+    "category": "Platters",
+    "description": "40 Sumomaki, 32 Maki, 18 Hosomaki, 10 Nigiri.",
+    "quantity": "100"
+  },
+  {
+    "name": "Combo Salmon Lover",
+    "price": "16.95",
+    "image": "combo-salmon-lover.png",
+    "category": "Combos",
+    "description": "Maki: 4 Twin Salmon, Hosomaki: 6 Spicy Syake, Nigiri: 3 Syake.",
+    "quantity": "13"
+  },
+  {
+    "name": "Crispy Combo",
+    "price": "18.95",
+    "image": "crispy-combo.png",
+    "category": "Combos",
+    "description": "1 Mini Sushi Pizza Authentik, 5 Dragon Eye, 2 Teriyaki Bomb. Served with soy sauce and spicy light mayo.",
+    "quantity": "1"
+  },
+  {
+    "name": "Combo BXL",
+    "price": "33.95",
+    "image": "combo-bxl.png",
+    "category": "Combos",
+    "description": "4 Mini Volcano, 2 Teriyaki Bomb , Sumomaki: 10 Chef's choice, Maki: 4 Classic Cali, 4 Twin Salmon, Nigiri: 2 Syake.",
+    "quantity": "26"
+  },
+  {
+    "name": "Combo Baby on board",
+    "price": "19.95",
+    "image": "combo-baby-on-board.png",
+    "category": "Combos",
+    "description": "Blossom: 6 Phoenix (no masago), Tartare Maki: 4 Shrimp (no masago), Sumomaki: 5 Shirmp Kamikaze (no masago) OR 5 Lion (no masago)",
+    "quantity": "15"
+  },
+  {
+    "name": "Combo A",
+    "price": "8.95",
+    "image": "combo-A.png",
+    "category": "Combos",
+    "description": "Sumomaki: 5 Vegetarian, Hosomaki: 6 Chef’s Choice.",
+    "quantity": "11"
+  },
+  {
+    "name": "Combo B",
+    "price": "10.95",
+    "image": "combo-B.png",
+    "category": "Combos",
+    "description": "Sumomaki: 5 Dynamite, Hosomaki: 6 Chef’s Choice",
+    "quantity": "11"
+  },
+  {
+    "name": "Combo C",
+    "price": "10.95",
+    "image": "combo-C.png",
+    "category": "Combos",
+    "description": "Sumomaki: 5 Salmon Kamikaze, Hosomaki: 6 Chef’s Choice.",
+    "quantity": "11"
+  },
+  {
+    "name": "Combo D",
+    "price": "10.95",
+    "image": "combo-D.png",
+    "category": "Combos",
+    "description": "Sumomaki: 5 Spicy Shrimp, Hosomaki: 6 Chef’s Choice.",
+    "quantity": "11"
+  },
+  {
+    "name": "Combo E",
+    "price": "9.95",
+    "image": "combo-E.png",
+    "category": "Combos",
+    "description": "Sumomaki: 5 California, Hosomaki: 6 Chef’s Choice.",
+    "quantity": "11"
+  },
+  {
+    "name": "Combo G",
+    "price": "11.95",
+    "image": "combo-G.png",
+    "category": "Combos",
+    "description": "Maki: 4 x 911, 4 Vancouver, 4 California Classic.",
+    "quantity": "12"
+  },
+  {
+    "name": "Combo I",
+    "price": "19.95",
+    "image": "combo-I.png",
+    "category": "Combos",
+    "description": "Sumomaki: 5 Miami, Maki: 4 California Classic, Hosomaki: 3 Avocado, Nigiri: 1 Syake, 1 Ebi.",
+    "quantity": "14"
+  },
+  {
+    "name": "Combo J",
+    "price": "18.95",
+    "image": "combo-J.png",
+    "category": "Combos",
+    "description": "Choix du chef : 5 Sumomaki, 6 Hosomaki, 4 Nigiri.",
+    "quantity": "1"
+  },
+  {
+    "name": "Combo K",
+    "price": "12.95",
+    "image": "combo-K.png",
+    "category": "Combos",
+    "description": "Sumomaki: 5 Vegetarian, Hosomaki: 3 Kappa, 3 Avocado, 3 Oshinko, Nigiri: 2 Inari.",
+    "quantity": "16"
+  },
+  {
+    "name": "Combo L",
+    "price": "30.95",
+    "image": "combo-L.png",
+    "category": "Combos",
+    "description": "Chef’s creation: 4 Nigiri, 10 Sumomaki, 12 Maki.",
+    "quantity": "26"
+  },
+  {
+    "name": "Miso Sauce",
+    "price": "0.95",
+    "image": "miso-sauce.png",
+    "category": "Extras",
+    "description": "Salty, nutty and umami ! Level up your favorite creations with our new sauce",
+    "quantity": "1"
+  },
+  {
+    "name": "Passion Fruit Mayo",
+    "price": "0.95",
+    "image": "passion-fruit-mayo.png",
+    "category": "Extras",
+    "description": "Sweet, fruity and exotic! Pair our new mayo with your favorite sushi.",
+    "quantity": "1"
+  },
+  {
+    "name": "Spicy Sauce",
+    "price": "0.95",
+    "image": "spicy-sauce.png",
+    "category": "Extras",
+    "description": null,
+    "quantity": "1"
+  },
+  {
+    "name": "Soy Sauce",
+    "price": "0.95",
+    "image": "soy-sauce.png",
+    "category": "Extras",
+    "description": null,
+    "quantity": "1"
+  },
+  {
+    "name": "Sweet Chili Sauce",
+    "price": "0.95",
+    "image": "sweet-chilli-sauce.png",
+    "category": "Extras",
+    "description": null,
+    "quantity": "1"
+  },
+  {
+    "name": "Wasabi",
+    "price": "0.75",
+    "image": "wasabi.png",
+    "category": "Extras",
+    "description": null,
+    "quantity": "1"
+  },
+  {
+    "name": "Ginger",
+    "price": "0.75",
+    "image": "ginger.png",
+    "category": "Extras",
+    "description": null,
+    "quantity": ""
+  },
+  {
+    "name": "Rice",
+    "price": "1.00",
+    "image": "rice.png",
+    "category": "Extras",
+    "description": null,
+    "quantity": "1"
+  },
+  {
+    "name": "Tempura",
+    "price": "1.00",
+    "image": "tempura.png",
+    "category": "Extras",
+    "description": null,
+    "quantity": "1"
+  },
+  {
+    "name": "Wonton Chips",
+    "price": "1.00",
+    "image": "wonton-chips.png",
+    "category": "Extras",
+    "description": null,
+    "quantity": "1"
+  },
+  {
+    "name": "Mini Wakame",
+    "price": "1.50",
+    "image": "mini-wakame.png",
+    "category": "Extras",
+    "description": null,
+    "quantity": "1"
+  }
+]
