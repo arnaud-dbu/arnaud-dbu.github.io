@@ -1,39 +1,38 @@
-
 [
-    {
-        "name": "Popular",
-        "image": "combo-baby-on-board.png",
-    },
-    {
-        "name": "Combos",
-        "image": "crispy-combo.png",
-    },
-    {
-        "name": "Sushi",
-        "image": "maguro.png",
-    },
-    {
-        "name": "Sashimi",
-        "image": "izumidai.png",
-    },
-    {
-        "name": "Maki",
-        "image": "teriyaki-chicken-maki",
-    },
-    {
-        "name": "Poke Bowls",
-        "image": "passion-poke-salmon.png",
-    },
-    {
-        "name": "Appetizers",
-        "image": "wakame-salad.png",
-    },
-    {
-        "name": "Beverages",
-        "image": "pepsi.png",
-    },
-    {
-        "name": "Extras",
-        "image": "wasabi.png",
-    },
+  {
+    "name": "Popular",
+    "image": "combo-baby-on-board.png"
+  },
+  {
+    "name": "Combos",
+    "image": "crispy-combo.png"
+  },
+  {
+    "name": "Sushi",
+    "image": "maguro.png"
+  },
+  {
+    "name": "Sashimi",
+    "image": "izumidai.png"
+  },
+  {
+    "name": "Maki",
+    "image": "teriyaki-chicken-maki"
+  },
+  {
+    "name": "Poke Bowls",
+    "image": "passion-poke-salmon.png"
+  },
+  {
+    "name": "Appetizers",
+    "image": "wakame-salad.png"
+  },
+  {
+    "name": "Beverages",
+    "image": "pepsi.png"
+  },
+  {
+    "name": "Extras",
+    "image": "wasabi.png"
+  }
 ]
