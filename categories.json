@@ -1,38 +1,38 @@
 [
   {
     "name": "Popular",
-    "image": "combo-baby-on-board.png"
+    "image": "cat-combo-baby-on-board.png"
   },
   {
     "name": "Combos",
-    "image": "crispy-combo.png"
+    "image": "cat-combo-J.png"
   },
   {
     "name": "Sushi",
-    "image": "maguro.png"
+    "image": "cat-maguro.png"
   },
   {
     "name": "Sashimi",
-    "image": "izumidai.png"
+    "image": "cat-sashimi.png"
   },
   {
     "name": "Maki",
-    "image": "teriyaki-chicken-maki.png"
+    "image": "cat-teriyaki-chicken-maki.png"
   },
   {
     "name": "Poke Bowls",
-    "image": "passion-poke-salmon.png"
+    "image": "cat-passion-poke-salmon.png"
   },
   {
     "name": "Appetizers",
-    "image": "wakame-salad.png"
+    "image": "cat-wakame-salad.png"
   },
   {
     "name": "Beverages",
-    "image": "maguro.png"
+    "image": "cat-pepsi.png"
   },
   {
     "name": "Extras",
-    "image": "wasabi.png"
+    "image": "cat-wasabi.png"
   }
 ]
