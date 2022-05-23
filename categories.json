@@ -8,12 +8,8 @@
     "image": "cat-combo-J.png"
   },
   {
-    "name": "Sushi",
-    "image": "cat-maguro.png"
-  },
-  {
     "name": "Nigiri & Sashimi",
-    "image": "cat-sashimi.png"
+    "image": "cat-maguro.png"
   },
   {
     "name": "Maki",
