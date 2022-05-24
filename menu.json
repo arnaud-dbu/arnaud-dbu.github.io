@@ -1,5 +1,6 @@
 [
   {
+    "id": "abdc7d9a-452d-43b4-bbfc-e054010087be",
     "name": "Water Bottle",
     "price": "2.00",
     "image": "water-bottle.png",
@@ -8,6 +9,7 @@
     "quantity": "500ml"
   },
   {
+    "id": "77f9783a-75a8-4786-bb85-77d6a65de580",
     "name": "Pepsi",
     "price": "2.25",
     "image": "pepsi.png",
@@ -16,6 +18,7 @@
     "quantity": "355ml"
   },
   {
+    "id": "44b38c36-d5ea-444b-860a-38a927215a07",
     "name": "Diet Pepsi",
     "price": "2.25",
     "image": "diet-pepsi.png",
@@ -24,6 +27,7 @@
     "quantity": "355ml"
   },
   {
+    "id": "305bb461-950e-4e83-9884-a9425a70b67f",
     "name": "7UP",
     "price": "2.25",
     "image": "7up.png",
@@ -32,6 +36,7 @@
     "quantity": "355ml"
   },
   {
+    "id": "2da776f1-51bd-4ac0-a771-c043e3502a08",
     "name": "Diet 7UP",
     "price": "2.25",
     "image": "diet-7up.png",
@@ -40,6 +45,7 @@
     "quantity": "355ml"
   },
   {
+    "id": "69716177-de0d-4540-9a8c-987bba7e6ef1",
     "name": "Sparkling Water",
     "price": "2.95",
     "image": "sparling-water.png",
@@ -48,6 +54,7 @@
     "quantity": "500ml"
   },
   {
+    "id": "6dc634d0-6be7-4b85-9963-dc7ed24c7765",
     "name": "Pure Leaf Tea",
     "price": "3.25",
     "image": "pure-leaf-tea.png",
@@ -56,6 +63,7 @@
     "quantity": "500ml"
   },
   {
+    "id": "df75b775-8807-41c3-83b3-9ce9e2b44148",
     "name": "Iced Tea",
     "price": "2.50",
     "image": "iced-tea.png",
@@ -64,6 +72,7 @@
     "quantity": "500ml"
   },
   {
+    "id": "f2dc9a59-29b7-4138-b8c2-063e355714d2",
     "name": "Vegetable Juice",
     "price": "2.50",
     "image": "vegetable-juice.png",
@@ -72,6 +81,7 @@
     "quantity": "300ml"
   },
   {
+    "id": "9416bfb9-e692-48c9-8162-276f0c3d225a",
     "name": "Oasis Juice",
     "price": "2.50",
     "image": "oasis-juice.png",
@@ -80,6 +90,7 @@
     "quantity": "400ml"
   },
   {
+    "id": "83ac619a-1fc1-4c7c-8097-e3720c0f22a9",
     "name": "Black mamba Maki",
     "price": "10.95",
     "image": "black-mamba-maki.png",
@@ -88,6 +99,7 @@
     "quantity": "8"
   },
   {
+    "id": "8b90e644-8ef8-4bba-86d0-e7192aabe91e",
     "name": "Tokyo Maki",
     "price": "10.25",
     "image": "tokyo-maki.png",
@@ -96,6 +108,7 @@
     "quantity": "8"
   },
   {
+    "id": "d3d2666f-8c7e-42ab-bcec-5902f9bfd3c3",
     "name": "Vancouver Maki",
     "price": "8.50",
     "image": "vancouver-maki.png",
@@ -104,14 +117,16 @@
     "quantity": "8"
   },
   {
+    "id": "4f46902f-a372-402e-be99-07f86ff6aa88",
     "name": "911 Maki",
     "price": "8.25",
-    "image": "911-maki.png",
+    "image": "911-mai.png",
     "category": "Maki",
     "description": "Tuna, avocado, green onion, tempura, orange masago, spicy sauce, sesame.",
     "quantity": "8"
   },
   {
+    "id": "9051827b-cda4-4dfd-b1ec-d98061d25b99",
     "name": "Twin Salmon Maki",
     "price": "10.95",
     "image": "twin-salmon-maki.png",
@@ -120,6 +135,7 @@
     "quantity": "8"
   },
   {
+    "id": "b3265ece-c693-4d09-afcd-6a98f9ea0e53",
     "name": "Ebi Maki",
     "price": "6.50",
     "image": "ebi-maki.png",
@@ -128,6 +144,7 @@
     "quantity": "8"
   },
   {
+    "id": "72a475aa-ca46-4d43-8be8-803e66b7d4be",
     "name": "Dragon Maki",
     "price": "9.95",
     "image": "dragon-maki.png",
@@ -136,6 +153,7 @@
     "quantity": "8"
   },
   {
+    "id": "6ed5f89c-670c-494f-bd1f-859d0f4023d8",
     "name": "Sunkiss maki",
     "price": "10.25",
     "image": "sunkiss-maki.png",
@@ -144,6 +162,7 @@
     "quantity": "8"
   },
   {
+    "id": "f8125140-8327-4f34-9e1e-5d2fc0940b9d",
     "name": "California Classic Maki",
     "price": "5.95",
     "image": "california-classic-maki.png",
@@ -152,6 +171,7 @@
     "quantity": "8"
   },
   {
+    "id": "4e713d17-70a0-40be-8d1e-5d36d91b2532",
     "name": "Red Tiger Maki",
     "price": "10.95",
     "image": "red-tiger-maki.png",
@@ -160,6 +180,7 @@
     "quantity": "8"
   },
   {
+    "id": "6c3e9017-a740-4e95-b688-18d42717aaf1",
     "name": "Teriyaki Chicken Maki",
     "price": "6.50",
     "image": "teriyaki-chicken-maki.png",
@@ -168,6 +189,7 @@
     "quantity": "8"
   },
   {
+    "id": "5daca4e0-f1d8-49fb-b658-171f140376d2",
     "name": "Syake",
     "price": "4.00",
     "image": "syake.png",
@@ -176,6 +198,7 @@
     "quantity": "1"
   },
   {
+    "id": "54f8f01c-f6f1-42a5-8ab7-7fe2fc9f0eb2",
     "name": "Ebi",
     "price": "4.00",
     "image": "ebi.png",
@@ -184,6 +207,7 @@
     "quantity": "1"
   },
   {
+    "id": "d79771a0-0c70-46a3-9ebd-7c32b9be66b2",
     "name": "Maguro",
     "price": "6.00",
     "image": "maguro.png",
@@ -192,6 +216,7 @@
     "quantity": "1"
   },
   {
+    "id": "ea890b98-17b0-41bb-8d57-1fac47e91bda",
     "name": "Kunsei Syake",
     "price": "4.00",
     "image": "kunsei-syake.png",
@@ -200,6 +225,7 @@
     "quantity": "1"
   },
   {
+    "id": "e95c4fc4-c92e-4870-a4d2-239246493879",
     "name": "Izumidai",
     "price": "4.00",
     "image": "izumidai.png",
@@ -208,6 +234,7 @@
     "quantity": "1"
   },
   {
+    "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
     "name": "Syake Saisi",
     "price": "4.00",
     "image": "syake-saisi.png",
@@ -216,6 +243,7 @@
     "quantity": "1"
   },
   {
+    "id": "df558da2-7844-4e92-b110-55e2f89fb4af",
     "name": "Passion Poke Salmon",
     "price": "14.50",
     "image": "passion-poke-salmon.png",
@@ -224,6 +252,7 @@
     "quantity": "1"
   },
   {
+    "id": "6fda16cc-7beb-43b8-8fd9-b0330604d8a5",
     "name": "Passion Poke Tuna",
     "price": "16.25",
     "image": "passion-poke-tuna.png",
@@ -232,6 +261,7 @@
     "quantity": "1"
   },
   {
+    "id": "bff8418e-731e-4f10-a59b-94a886ca89d7",
     "name": "Passion Poke Salmon & Tuna",
     "price": "13.50",
     "image": "passion-poke-salmon-tune.png",
@@ -240,6 +270,7 @@
     "quantity": "1"
   },
   {
+    "id": "c14553ad-410a-4fd8-8b60-ee21cd37afd2",
     "name": "Salmon Poke",
     "price": "12.00",
     "image": "salmon-poke.png",
@@ -248,6 +279,7 @@
     "quantity": "1"
   },
   {
+    "id": "c8965b13-ddcd-4d48-942f-cad211eb2bce",
     "name": "Salmon & Tuna Poke",
     "price": "15.00",
     "image": "salmon-tuna-poke.png",
@@ -256,6 +288,7 @@
     "quantity": "1"
   },
   {
+    "id": "9508cc00-3d56-4b34-8b88-075351f38805",
     "name": "Tuna Poke",
     "price": "12.50",
     "image": "tuna-poke.png",
@@ -264,6 +297,7 @@
     "quantity": "1"
   },
   {
+    "id": "8d92214b-bd14-4eae-b788-3dbfdd084856",
     "name": "Spicy Shrimp Poke",
     "price": "16.00",
     "image": "spicy-shrimp-poke.png",
@@ -272,6 +306,7 @@
     "quantity": "1"
   },
   {
+    "id": "5e5fe40e-1be4-4696-aedb-77dacc2be246",
     "name": "Volcano Poke",
     "price": "11.95",
     "image": "volcano-poke.png",
@@ -280,6 +315,7 @@
     "quantity": "1"
   },
   {
+    "id": "bce4ca54-5009-4b79-9c36-a95f603e87c0",
     "name": "Veggie Poke",
     "price": "12.50",
     "image": "veggie-poke.png",
@@ -288,6 +324,7 @@
     "quantity": "1"
   },
   {
+    "id": "471ceff9-3189-43bc-8cfa-f89ba615c7f5",
     "name": "Lobster & Shrimp Poke",
     "price": "16.00",
     "image": "lobster-shrimp-poke.png",
@@ -295,7 +332,8 @@
     "description": "Lobster, shrimp, coriander, lemon, tempura, avocado, orange masago, cucumber, lettuce, green onion, ponzu and teriyaki sauce, spicy light and Japanese mayo, Japanese spices, sesame, nori.",
     "quantity": "1"
   },
-  { 
+  {
+    "id": "a727221a-09ad-4227-95fa-96ea0f92f6c3",
     "name": "Chicken & Mango Poke",
     "price": "16.00",
     "image": "chicken-mango-poke.png",
@@ -304,6 +342,7 @@
     "quantity": "1"
   },
   {
+    "id": "6b7fb729-386a-4e8c-bb9c-2fd828b43ebb",
     "name": "Umami Poke",
     "price": "11.25",
     "image": "umami-poke.png",
@@ -312,6 +351,7 @@
     "quantity": "1"
   },
   {
+    "id": "5cdb2744-45f7-42d9-9736-1fc6ebfe467d",
     "name": "Spicy Tuna Poke",
     "price": "14.50",
     "image": "spicy-tuna-poke.png",
@@ -320,6 +360,7 @@
     "quantity": "1"
   },
   {
+    "id": "35514429-9d80-4760-b397-f8579b398f9f",
     "name": "Spicy Salmon Poke",
     "price": "16.00",
     "image": "spicy-salmon-poke.png",
@@ -328,6 +369,7 @@
     "quantity": "1"
   },
   {
+    "id": "5b14e348-414a-49ef-8bf4-ed3e40ac433d",
     "name": "Diabolo Poke",
     "price": "11.95",
     "image": "diabolo-poke.png",
@@ -336,6 +378,7 @@
     "quantity": "1"
   },
   {
+    "id": "8e2b6ec5-117b-4cde-9bd0-f1955c864b23",
     "name": "Sunrise Poke",
     "price": "14.50",
     "image": "sunrise-poke.png",
@@ -344,6 +387,7 @@
     "quantity": "1"
   },
   {
+    "id": "d82c34c3-53d0-4c58-8e1a-a6c70880bcdd",
     "name": "Small Miso Soup",
     "price": "3.50",
     "image": "small-miso-soup.png",
@@ -352,6 +396,7 @@
     "quantity": "1"
   },
   {
+    "id": "c60a25b7-5c17-461f-ba10-798bbdb58361",
     "name": "Shrimp Tempura",
     "price": "5.95",
     "image": "shrimp-tempura.png",
@@ -360,6 +405,7 @@
     "quantity": "3"
   },
   {
+    "id": "816e98d2-cd33-4437-9da1-95806d7d9610",
     "name": "Imperia Roll",
     "price": "1.95",
     "image": "imperia-roll.png",
@@ -368,6 +414,7 @@
     "quantity": "1"
   },
   {
+    "id": "3117c20d-8b23-4c3e-a563-c35ece4bf105",
     "name": "Popcorn Shrimp",
     "price": "5.50",
     "image": "popcorn-shrimp.png",
@@ -376,6 +423,7 @@
     "quantity": "12"
   },
   {
+    "id": "eba2297d-d7d6-415a-a4e4-e74f62ffdfe2",
     "name": "Vegetable Tempura",
     "price": "4.50",
     "image": "vegetable-tempura.png",
@@ -384,6 +432,7 @@
     "quantity": "8"
   },
   {
+    "id": "9f781f63-f380-4c05-9c68-f23b3d6bccdc",
     "name": "Wakame Salad",
     "price": "4.95",
     "image": "wakame-salad.png",
@@ -392,6 +441,7 @@
     "quantity": "1"
   },
   {
+    "id": "0bfea5fd-fb34-4e2d-bffe-8f205a378b0e",
     "name": "Green Salad",
     "price": "3.50",
     "image": "green-salad.png",
@@ -400,6 +450,7 @@
     "quantity": "1"
   },
   {
+    "id": "7304fdd1-65c4-4330-80f9-00326cb88059",
     "name": "Spicy Calmar",
     "price": "6.95",
     "image": "spicy-calmar.png",
@@ -408,6 +459,7 @@
     "quantity": "1"
   },
   {
+    "id": "b1e5c426-86a7-4530-a0e1-c5a7976e649b",
     "name": "Mister's Choice A",
     "price": "62.95",
     "image": "platter.png",
@@ -416,6 +468,7 @@
     "quantity": "50"
   },
   {
+    "id": "294889bb-2b42-4dbf-a2ff-186e5f5bf81f",
     "name": "Mister's Choice B",
     "price": "68.95",
     "image": "platter.png",
@@ -424,6 +477,7 @@
     "quantity": "52"
   },
   {
+    "id": "28e63c1f-e4a8-46a8-bcb8-5b41d00cfba8",
     "name": "Mister's Choice C",
     "price": "79.95",
     "image": "platter.png",
@@ -432,6 +486,7 @@
     "quantity": "57"
   },
   {
+    "id": "6fd1faf5-82ef-4724-b1e4-1a7f8c2bbdf2",
     "name": "Mister's Choice D",
     "price": "82.95",
     "image": "platter.png",
@@ -440,6 +495,7 @@
     "quantity": "82.95"
   },
   {
+    "id": "7260a06d-df8b-4b3e-b5d3-89ffc74b445b",
     "name": "Mister's Choice E",
     "price": "107.95",
     "image": "platter.png",
@@ -448,6 +504,7 @@
     "quantity": "100"
   },
   {
+    "id": "bac8bd44-1c93-4627-9bab-3ea1a3c9667b",
     "name": "Combo Salmon Lover",
     "price": "16.95",
     "image": "combo-salmon-lover.png",
@@ -456,6 +513,7 @@
     "quantity": "13"
   },
   {
+    "id": "bba24b36-98cc-4954-85b2-fbe39dbaa077",
     "name": "Crispy Combo",
     "price": "18.95",
     "image": "crispy-combo.png",
@@ -464,6 +522,7 @@
     "quantity": "1"
   },
   {
+    "id": "2d837f2c-6006-4744-b778-6705d87e4256",
     "name": "Combo BXL",
     "price": "33.95",
     "image": "combo-bxl.png",
@@ -472,6 +531,7 @@
     "quantity": "26"
   },
   {
+    "id": "122961d5-3689-4b95-ac7d-1a668804cc52",
     "name": "Combo Baby on board",
     "price": "19.95",
     "image": "combo-baby-on-board.png",
@@ -480,6 +540,7 @@
     "quantity": "15"
   },
   {
+    "id": "a977a059-0182-4d74-87a1-3dab7173e901",
     "name": "Combo A",
     "price": "8.95",
     "image": "combo-A.png",
@@ -488,6 +549,7 @@
     "quantity": "11"
   },
   {
+    "id": "d1b8c471-0b15-4fdc-ad27-c15db80ea95f",
     "name": "Combo B",
     "price": "10.95",
     "image": "combo-B.png",
@@ -496,6 +558,7 @@
     "quantity": "11"
   },
   {
+    "id": "f4077fe4-3f47-4caf-a4c6-a38e45e3e734",
     "name": "Combo C",
     "price": "10.95",
     "image": "combo-C.png",
@@ -504,6 +567,7 @@
     "quantity": "11"
   },
   {
+    "id": "053b60fa-2d5b-4e0c-bd7b-d22731e44b7e",
     "name": "Combo D",
     "price": "10.95",
     "image": "combo-D.png",
@@ -512,6 +576,7 @@
     "quantity": "11"
   },
   {
+    "id": "3db3b9b6-5144-4e6a-b70e-bb6c178d07bd",
     "name": "Combo E",
     "price": "9.95",
     "image": "combo-E.png",
@@ -520,6 +585,7 @@
     "quantity": "11"
   },
   {
+    "id": "864c5690-263d-41d3-ae22-97ef5b844b2e",
     "name": "Combo G",
     "price": "11.95",
     "image": "combo-G.png",
@@ -528,6 +594,7 @@
     "quantity": "12"
   },
   {
+    "id": "e6dafcef-868d-4c2d-97f4-824379a9849a",
     "name": "Combo I",
     "price": "19.95",
     "image": "combo-I.png",
@@ -536,6 +603,7 @@
     "quantity": "14"
   },
   {
+    "id": "8c29fff0-eb07-499c-94c6-c608e331aee2",
     "name": "Combo J",
     "price": "18.95",
     "image": "combo-J.png",
@@ -544,6 +612,7 @@
     "quantity": "1"
   },
   {
+    "id": "41daae8b-a94f-4bc8-b035-7c2eb1433665",
     "name": "Combo K",
     "price": "12.95",
     "image": "combo-K.png",
@@ -552,6 +621,7 @@
     "quantity": "16"
   },
   {
+    "id": "28c72976-18e7-47ca-bc0f-f01a52d9f393",
     "name": "Combo L",
     "price": "30.95",
     "image": "combo-L.png",
@@ -560,6 +630,7 @@
     "quantity": "26"
   },
   {
+    "id": "241303cc-9a02-47ce-a427-4f7c35f38992",
     "name": "Miso Sauce",
     "price": "0.95",
     "image": "miso-sauce.png",
@@ -568,6 +639,7 @@
     "quantity": "1"
   },
   {
+    "id": "1daf7a99-5f66-4eaa-bfc5-87986c87db56",
     "name": "Passion Fruit Mayo",
     "price": "0.95",
     "image": "passion-fruit-mayo.png",
@@ -576,6 +648,7 @@
     "quantity": "1"
   },
   {
+    "id": "f317289f-7a81-4e25-adab-01b7337914ae",
     "name": "Spicy Sauce",
     "price": "0.95",
     "image": "spicy-sauce.png",
@@ -584,6 +657,7 @@
     "quantity": "1"
   },
   {
+    "id": "0e742211-1cdb-4e9f-87ed-4e890e2b5efd",
     "name": "Soy Sauce",
     "price": "0.95",
     "image": "soy-sauce.png",
@@ -592,6 +666,7 @@
     "quantity": "1"
   },
   {
+    "id": "4c636ffd-c793-493e-bf97-2f59a8207de5",
     "name": "Sweet Chili Sauce",
     "price": "0.95",
     "image": "sweet-chilli-sauce.png",
@@ -600,6 +675,7 @@
     "quantity": "1"
   },
   {
+    "id": "f9563f3d-923c-4a4c-a339-202b41d45672",
     "name": "Wasabi",
     "price": "0.75",
     "image": "wasabi.png",
@@ -608,6 +684,7 @@
     "quantity": "1"
   },
   {
+    "id": "3c6d988c-ed85-4e54-b57b-9f9d5a5e7ab6",
     "name": "Ginger",
     "price": "0.75",
     "image": "ginger.png",
@@ -616,6 +693,7 @@
     "quantity": ""
   },
   {
+    "id": "fc193825-2741-45dd-a917-dfe761e1b2be",
     "name": "Rice",
     "price": "1.00",
     "image": "rice.png",
@@ -624,6 +702,7 @@
     "quantity": "1"
   },
   {
+    "id": "4400df33-e187-494f-9493-83e15bab04ae",
     "name": "Tempura",
     "price": "1.00",
     "image": "tempura.png",
@@ -632,6 +711,7 @@
     "quantity": "1"
   },
   {
+    "id": "a07626c4-17a3-49ee-b403-c27c27de071f",
     "name": "Wonton Chips",
     "price": "1.00",
     "image": "wonton-chips.png",
@@ -640,6 +720,7 @@
     "quantity": "1"
   },
   {
+    "id": "fe96b75c-cfc7-43ba-88c0-9e242dfeb7b2",
     "name": "Mini Wakame",
     "price": "1.50",
     "image": "mini-wakame.png",
