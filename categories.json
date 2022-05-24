@@ -1,34 +1,47 @@
 [
-  {
-    "name": "Popular",
-    "image": "cat-combo-baby-on-board.png"
-  },
-  {
-    "name": "Combos",
-    "image": "cat-combo-J.png"
-  },
-  {
-    "name": "Nigiri & Sashimi",
-    "image": "cat-maguro.png"
-  },
-  {
-    "name": "Maki",
-    "image": "cat-teriyaki-chicken-maki.png"
-  },
-  {
-    "name": "Poke Bowls",
-    "image": "cat-passion-poke-salmon.png"
-  },
-  {
-    "name": "Appetizers",
-    "image": "cat-wakame-salad.png"
-  },
-  {
-    "name": "Beverages",
-    "image": "cat-pepsi.png"
-  },
-  {
-    "name": "Extras",
-    "image": "cat-wasabi.png"
-  }
-]
+    {
+      "id": "66cbaabc-bcd5-499d-bcaf-4b65b6317332",
+      "name": "Popular",
+      "image": "cat-combo-baby-on-board.png"
+    },
+    {
+      "id": "0ae276e2-8d38-4356-a9b1-6aa99b43544b",
+      "name": "Combos",
+      "image": "cat-combo-J.png"
+    },
+    {
+      "id": "21dc440e-87e9-45bd-98e1-0807d9f2ce27",
+      "name": "Sushi",
+      "image": "cat-maguro.png"
+    },
+    {
+      "id": "4facc343-0313-4228-b109-ca29c09debd2",
+      "name": "Sashimi",
+      "image": "cat-sashimi.png"
+    },
+    {
+      "id": "1faae87f-f13b-4187-a35e-7d53be8b3bca",
+      "name": "Maki",
+      "image": "cat-teriyaki-chicken-maki.png"
+    },
+    {
+      "id": "a65f9e6c-5202-4a17-a831-fdc911c5808c",
+      "name": "Poke Bowls",
+      "image": "cat-passion-poke-salmon.png"
+    },
+    {
+      "id": "3871a528-61b2-449f-ab81-4d264164a1f9",
+      "name": "Appetizers",
+      "image": "cat-wakame-salad.png"
+    },
+    {
+      "id": "d337b1cb-dee1-49d5-9c89-eb5fdc9509f3",
+      "name": "Beverages",
+      "image": "cat-pepsi.png"
+    },
+    {
+      "id": "0956aeb7-5ae5-415f-9e24-fb57b8e92c46",
+      "name": "Extras",
+      "image": "cat-wasabi.png"
+    }
+  ]
