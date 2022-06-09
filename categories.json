@@ -1,22 +1,17 @@
 [
     {
-      "id": "66cbaabc-bcd5-499d-bcaf-4b65b6317332",
-      "name": "Popular",
-      "image": "cat-combo-baby-on-board.png"
-    },
-    {
       "id": "0ae276e2-8d38-4356-a9b1-6aa99b43544b",
       "name": "Combos",
       "image": "cat-combo-J.png"
     },
     {
       "id": "21dc440e-87e9-45bd-98e1-0807d9f2ce27",
-      "name": "Sushi",
+      "name": "Nigiri",
       "image": "cat-maguro.png"
     },
     {
       "id": "4facc343-0313-4228-b109-ca29c09debd2",
-      "name": "Nigiri & Sashimi",
+      "name": "Sashimi",
       "image": "cat-sashimi.png"
     },
     {
