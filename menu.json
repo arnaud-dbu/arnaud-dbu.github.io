@@ -269,7 +269,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a68e-7c03e1cf3df9",
+        "id": "25491866-f3ca-4262-8d98-f106f0f76960",
         "name": "Sake",
         "price": "7.00",
         "image": "sake-sashimi.png",
@@ -279,7 +279,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
+        "id": "0c0fb8fd-8629-44c8-a531-a5e9930d7bfb",
         "name": "Maguro",
         "price": "8.00",
         "image": "maguro-sashimi.png",
@@ -289,7 +289,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
+        "id": "7aa497b3-c971-483f-83d6-e6c3c3e98c4a",
         "name": "Tako",
         "price": "6.00",
         "image": "tako-sashimi.png",
@@ -299,7 +299,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
+        "id": "8b7db0f6-3d44-49f4-8a62-ffd87dd6a267",
         "name": "Ahi",
         "price": "9.00",
         "image": "aho-sashimi.png",
@@ -309,7 +309,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
+        "id": "36a28bce-f1f8-4d4d-997b-8962ac55f27c",
         "name": "Hotate",
         "price": "4.00",
         "image": "hotate-sashimi.png",
@@ -319,7 +319,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
+        "id": "ee308805-39a8-4ca6-833f-7e93a1e1eeee",
         "name": "Matsuri Platter",
         "price": "35.00",
         "image": "matsuri-platter.png",
@@ -329,7 +329,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
+        "id": "f43ff27f-33ca-410f-b938-6b4a8c1d12e4",
         "name": "Yamato Platter",
         "price": "55.00",
         "image": "yamato-platter.png",
@@ -339,7 +339,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
+        "id": "3928968b-343f-49cb-919f-a2978f0da488",
         "name": "Supreme Platter",
         "price": "80.00",
         "image": "supreme-platter.png",
