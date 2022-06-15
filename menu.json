@@ -4,8 +4,8 @@
         "price": "2.00",
         "image": "water-bottle.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "500ml",
+        "description": "500ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -14,8 +14,8 @@
         "price": "2.25",
         "image": "pepsi.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "355ml",
+        "description": "355ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -24,8 +24,8 @@
         "price": "2.25",
         "image": "diet-pepsi.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "355ml",
+        "description": "355ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -34,8 +34,8 @@
         "price": "2.25",
         "image": "7up.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "355ml",
+        "description": "355ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -44,8 +44,8 @@
         "price": "2.25",
         "image": "diet-7up.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "355ml",
+        "description": "355ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -54,8 +54,8 @@
         "price": "2.95",
         "image": "sparling-water.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "500ml",
+        "description": "500ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -64,8 +64,8 @@
         "price": "3.25",
         "image": "pure-leaf-tea.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "500ml",
+        "description": "500ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -74,8 +74,8 @@
         "price": "2.50",
         "image": "iced-tea.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "500ml",
+        "description": "500ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -84,8 +84,8 @@
         "price": "2.50",
         "image": "vegetable-juice.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "300ml",
+        "description": "300ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -94,8 +94,8 @@
         "price": "2.50",
         "image": "oasis-juice.png",
         "category": "Beverages",
-        "description": null,
-        "quantity": "400ml",
+        "description": "400ml",
+        "quantity": "1",
         "popular": false
     },
     {
@@ -279,7 +279,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a50e-7c57e1cf3df9",
+        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
         "name": "Maguro",
         "price": "8.00",
         "image": "maguro-sashimi.png",
@@ -289,7 +289,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a49e-7c57e1cf3df9",
+        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
         "name": "Tako",
         "price": "6.00",
         "image": "tako-sashimi.png",
@@ -299,7 +299,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a10e-7c57e1cf3df9",
+        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
         "name": "Ahi",
         "price": "9.00",
         "image": "aho-sashimi.png",
@@ -309,7 +309,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a12e-7c57e1cf3df9",
+        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
         "name": "Hotate",
         "price": "4.00",
         "image": "hotate-sashimi.png",
@@ -319,7 +319,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a13e-7c57e1cf3df9",
+        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
         "name": "Matsuri Platter",
         "price": "35.00",
         "image": "matsuri-platter.png",
@@ -329,7 +329,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a14e-7c57e1cf3df9",
+        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
         "name": "Yamato Platter",
         "price": "55.00",
         "image": "yamato-platter.png",
@@ -339,7 +339,7 @@
         "popular": false
     },
     {
-        "id": "8362a5c9-c3ab-43bb-a16e-7c57e1cf3df9",
+        "id": "8362a5c9-c3ab-43bb-a68e-7c57e1cf3df9",
         "name": "Supreme Platter",
         "price": "80.00",
         "image": "supreme-platter.png",
